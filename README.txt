@@ -1,4 +1,3 @@
-# Travaux Pratiques
 # FERNANDES DE FARIA PATRICK
 # ALI-HADEF JAMEL
 

@@ -1,0 +1,9 @@
+ALGO Exemple
+ENTREE n
+DEBUT
+  VAR n
+  TQ n<10 FAIRE
+    n <- n + 1
+    AFFICHER n
+  FTQ
+FIN
